@@ -17,3 +17,36 @@ https://github.com/labmlai/annotated_deep_learning_paper_implementations
 
 
 will start video processong
+
+I have created a notebook that goes over some basic plots and functionalities of Matplotlib and Seaborn.
+
+Table of Contents:
+
+Introduction
+Import Libraries and Load Data
+2.1 Import Libraries and Load Data
+2.2 Basic Exploratory Data Analysis
+Distribution of Sales
+3.1 Histogram
+3.2 Kernel Density Plot
+Sales Breakdown
+4.1 Bar Chart by Product
+4.2 Box Plot by Category
+4.3 Pie Chart
+Sales Trends Over Time
+5.1 Line Plot
+5.2 Area Plot
+Relationships Between Variables
+6.1 Scatter Plot
+6.2 Pairplot (Exploring Multiple Relationships)
+Additional Plots
+7.1 Heatmap
+7.2 Joint Plot
+7.3 Violin Plot (For Comparing Distributions)
+Add More Elements to Plots
+8.1 Text and Annotations
+8.2 Arrows and Boxes
+8.3 Lines and Segments
+Check it out here:
+
+https://www.kaggle.com/code/oleksiimartusiuk/learning-plots-matplotlib-and-seaborn
