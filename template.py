@@ -15,3 +15,18 @@
 import tqdm
 import random
 import pathlib
+import itertools
+import collections
+
+import os
+import cv2
+import numpy as np
+import remotezip as rz
+
+import tensorflow as tf
+
+# Some modules to display an animation using imageio.
+import imageio
+from IPython import display
+from urllib import request
+from tensorflow_docs.vis import embed
