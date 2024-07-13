@@ -81,3 +81,15 @@ Continuous Learning 📚
 Reading research papers 📑
 Participating in Kaggle competitions 🏆
 Following ML blogs and podcasts
+
+
+https://www.kaggle.com/datasets/rmisra/news-category-dataset/discussion/114275
+https://www.kaggle.com/competitions/data-science-bowl-2019/discussion/114856
+https://www.kaggle.com/competitions/lish-moa/discussion/180311
+https://www.kaggle.com/discussions/getting-started/253189
+https://www.kaggle.com/competitions/tabular-playground-series-dec-2021/discussion/293072
+https://www.kaggle.com/competitions/happy-whale-and-dolphin/discussion/316139
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/discussion/373669
+https://www.kaggle.com/discussions/general/425947
+https://www.kaggle.com/discussions/general/436183
+https://www.kaggle.com/competitions/playground-series-s4e7/discussion/516729
