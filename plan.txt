@@ -141,3 +141,20 @@ Evaluation: Without labeled data, evaluating the performance of unsupervised lea
 The future of unsupervised learning looks promising with advancements in deep learning, computational power, and algorithmic innovations. Combining unsupervised learning with other techniques, like semi-supervised and reinforcement learning, will open new avenues for solving complex problems. 🌐🤖
 
 Conclusion 🎉
+
+This is a beginner friendly notebook that i created keeping in mind that if I were to start learning NLP again, this is how i would start.
+
+I have covered the following topics in this notebook:
+
+Why NLP?
+NLTK- Natural Language toolkit
+Stemming
+Lemmatization
+Text Vectorization
+BOW (Bag of Words)
+TFIDF
+Word2Vec
+BERT
+There are multiple research tasks that i have mentioned with which i want people to start the habit of researching and learning by themselves.
+
+The notebook can be accessed here: https://www.kaggle.com/code/chaitya0623/introduction-to-natural-language-processing
