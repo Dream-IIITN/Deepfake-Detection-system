@@ -158,3 +158,21 @@ BERT
 There are multiple research tasks that i have mentioned with which i want people to start the habit of researching and learning by themselves.
 
 The notebook can be accessed here: https://www.kaggle.com/code/chaitya0623/introduction-to-natural-language-processing
+
+Difference between Regression and Classification
+Regression and Classification algorithms are Supervised Learning algorithms. Both the algorithms are used for prediction in Machine learning and work with the labeled datasets. But the difference between both is how they are used for different machine learning problems
+
+REGRESSION ALGORITHM
+1.In Regression, the output variable must be of continuous nature or real value.
+2.Regression algorithms can be used to solve the regression problems such as Weather Prediction, House price prediction, etc.
+3.Regression Algorithms are used with continuous data.
+4.The task of the regression algorithm is to map the input value (x) with the continuous output variable(y)
+
+CLASSIFICATION ALGORITHM
+
+In Classification, the output variable must be a discrete value.
+2.Classification Algorithms can be used to solve classification problems such as Identification of spam emails, Speech Recognition, Identification of cancer cells, etc.
+
+3.Classification Algorithms are used with discrete data.
+
+4.The task of the classification algorithm is to map the input value(x) with the discrete output variable(y
